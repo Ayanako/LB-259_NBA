@@ -20,3 +20,6 @@ ob ich seine Datenbank -(Lizenz) für ein Schulprojekt benutzen darf und
 glücklicherweise, hat Herr «Cirtataus» auch zugestimmt. 
 (Mailverlauf sehen Sie im Repository) Von dem her habe ich auch die 
 Erlaubnis auf das Copyright etc.
+
+Link zu dem Datenset
+https://www.kaggle.com/justinas/nba-players-data
