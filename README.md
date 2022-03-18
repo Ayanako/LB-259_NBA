@@ -18,4 +18,5 @@ für alle veröffentlicht, erhältlich und deshalb verstosst diese Datenbank
 nicht gegen den Datenschutz. Ich habe den Hersteller persönlich gefragt, 
 ob ich seine Datenbank -(Lizenz) für ein Schulprojekt benutzen darf und
 glücklicherweise, hat Herr «Cirtataus» auch zugestimmt. 
-(Mailverlauf sehen Sie im Repository)
+(Mailverlauf sehen Sie im Repository) Von dem her habe ich auch die 
+Erlaubnis auf das Copyright etc.
